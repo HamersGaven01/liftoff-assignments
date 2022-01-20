@@ -1,19 +1,27 @@
-# Project Planning
+Project Planning
+
 For this assignment, you'll create some initial plans for your project.
 
-## Assignment Description
-[Project Planning Assignment](https://education.launchcode.org/liftoff/modules/assignments/project-planning)
+Assignment Description
 
-## Submission Instructions
+Project Planning Assignment
 
-### Wireframes
+Submission Instructions
 
-Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
+Wireframes
 
-### Project Tracker
+Entire Book Collection Page: https://app.moqups.com/KtHRlRHZ0FwefyGUC8RnKlqTfoqdtNpt/view/page/ad64222d5
 
-Include a link to your public Trello board. Be sure you have user stories added for at least your first 2-week sprint.
+Add Book: https://app.moqups.com/KtHRlRHZ0FwefyGUC8RnKlqTfoqdtNpt/edit/page/a09745ea1
 
-### Project Repo Link
+Delete Book: https://app.moqups.com/KtHRlRHZ0FwefyGUC8RnKlqTfoqdtNpt/edit/page/a61134a1f
 
-Include a link to your project on GitHub.
+Search: https://app.moqups.com/KtHRlRHZ0FwefyGUC8RnKlqTfoqdtNpt/edit/page/a4cc415e5
+
+Project Tracker
+
+https://trello.com/b/Bx7yEIIe/booklibrary
+
+Project Repo Link
+
+https://github.com/dcowdrystl/BookCollection
